@@ -17,6 +17,7 @@
 		9E08797B252FEDF8004C5882 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E08797A252FEDF8004C5882 /* SceneDelegate.swift */; };
 		9E08797D252FF263004C5882 /* CameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E08797C252FF263004C5882 /* CameraViewController.swift */; };
 		9EAD46662530010A001C4415 /* PostCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9EAD46652530010A001C4415 /* PostCell.swift */; };
+		9EAD4668253039C9001C4415 /* CommentCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9EAD4667253039C9001C4415 /* CommentCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,6 +34,7 @@
 		9E08797A252FEDF8004C5882 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		9E08797C252FF263004C5882 /* CameraViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CameraViewController.swift; sourceTree = "<group>"; };
 		9EAD46652530010A001C4415 /* PostCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostCell.swift; sourceTree = "<group>"; };
+		9EAD4667253039C9001C4415 /* CommentCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommentCell.swift; sourceTree = "<group>"; };
 		CCE0DC56B1F3934AD1E1177E /* Pods-parstagram.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-parstagram.release.xcconfig"; path = "Target Support Files/Pods-parstagram/Pods-parstagram.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -89,6 +91,7 @@
 				9E087940252FDE7E004C5882 /* AppDelegate.swift */,
 				9E08797A252FEDF8004C5882 /* SceneDelegate.swift */,
 				9E087946252FDE7E004C5882 /* Main.storyboard */,
+				9EAD4667253039C9001C4415 /* CommentCell.swift */,
 				9EAD46652530010A001C4415 /* PostCell.swift */,
 				9E08797C252FF263004C5882 /* CameraViewController.swift */,
 				9E087954252FDF73004C5882 /* LoginViewController.swift */,
@@ -221,6 +224,7 @@
 				9E087941252FDE7E004C5882 /* AppDelegate.swift in Sources */,
 				9E08797B252FEDF8004C5882 /* SceneDelegate.swift in Sources */,
 				9EAD46662530010A001C4415 /* PostCell.swift in Sources */,
+				9EAD4668253039C9001C4415 /* CommentCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
